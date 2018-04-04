@@ -1,0 +1,2 @@
+set solib-search-path libcompat/obj/local/armeabi
+directory /home/chrison/android-ndk-r11c/platforms/android-9/arch-arm/usr/include libcompat /home/chrison/android-ndk-r11c/sources/cxx-stl/system

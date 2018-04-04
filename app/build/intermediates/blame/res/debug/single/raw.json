@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pirbuzzer.wav",
+        "source": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\src\\main\\res\\raw\\pirbuzzer.wav"
+    },
+    {
+        "merged": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\build\\intermediates\\res\\merged\\debug\\raw\\buzzer.wav",
+        "source": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\src\\main\\res\\raw\\buzzer.wav"
+    }
+]

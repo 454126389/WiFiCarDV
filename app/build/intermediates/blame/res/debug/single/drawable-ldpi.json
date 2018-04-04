@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\video_type.png",
+        "source": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\src\\main\\res\\drawable-ldpi\\video_type.png"
+    },
+    {
+        "merged": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\live_btn.png",
+        "source": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\src\\main\\res\\drawable-ldpi\\live_btn.png"
+    },
+    {
+        "merged": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\app_icon.png",
+        "source": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\src\\main\\res\\drawable-ldpi\\app_icon.png"
+    },
+    {
+        "merged": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\photo_type.png",
+        "source": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\src\\main\\res\\drawable-ldpi\\photo_type.png"
+    },
+    {
+        "merged": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\type_all.png",
+        "source": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\src\\main\\res\\drawable-ldpi\\type_all.png"
+    },
+    {
+        "merged": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\local_folder_btn.png",
+        "source": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\src\\main\\res\\drawable-ldpi\\local_folder_btn.png"
+    },
+    {
+        "merged": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\setting_btn.png",
+        "source": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\src\\main\\res\\drawable-ldpi\\setting_btn.png"
+    },
+    {
+        "merged": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\camera_folder_btn.png",
+        "source": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\src\\main\\res\\drawable-ldpi\\camera_folder_btn.png"
+    }
+]

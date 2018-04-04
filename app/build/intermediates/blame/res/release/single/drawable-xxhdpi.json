@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\type_all.png",
+        "source": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\src\\main\\res\\drawable-xxhdpi\\type_all.png"
+    },
+    {
+        "merged": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\live_btn.png",
+        "source": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\src\\main\\res\\drawable-xxhdpi\\live_btn.png"
+    },
+    {
+        "merged": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\app_icon.png",
+        "source": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\src\\main\\res\\drawable-xxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\local_folder_btn.png",
+        "source": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\src\\main\\res\\drawable-xxhdpi\\local_folder_btn.png"
+    },
+    {
+        "merged": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\setting_btn.png",
+        "source": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\src\\main\\res\\drawable-xxhdpi\\setting_btn.png"
+    },
+    {
+        "merged": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\camera_folder_btn.png",
+        "source": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\src\\main\\res\\drawable-xxhdpi\\camera_folder_btn.png"
+    },
+    {
+        "merged": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\video_type.png",
+        "source": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\src\\main\\res\\drawable-xxhdpi\\video_type.png"
+    },
+    {
+        "merged": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\photo_type.png",
+        "source": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\src\\main\\res\\drawable-xxhdpi\\photo_type.png"
+    },
+    {
+        "merged": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "F:\\myapp\\android 1.3.47-\\android\\WiFiCarDV_35923\\WiFiCarDV\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

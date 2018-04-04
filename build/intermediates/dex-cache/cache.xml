@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\myapp\android 1.3.47-\android\WiFiCarDV_35923\WiFiCarDV\app\libs\httpcore-4.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2d503272bf0a8b5f92d64db78b4ba9abbaccc6fd">
+        <dex dex="F:\myapp\android 1.3.47-\android\WiFiCarDV_35923\WiFiCarDV\app\build\intermediates\pre-dexed\release\httpcore-4.2.1_030debf46d20c284076e6f2611e1861e336fc2dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\myapp\android 1.3.47-\android\WiFiCarDV_35923\WiFiCarDV\app\build\intermediates\exploded-aar\libvlc-3.0.0-1.9.8\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b570b4356a75fbebddb9c682d6bb9e966c491706">
+        <dex dex="F:\myapp\android 1.3.47-\android\WiFiCarDV_35923\WiFiCarDV\app\build\intermediates\pre-dexed\release\intermediates-exploded-aar-libvlc-3.0.0-1.9.8_1a3a1f5ddf01dbc51f2b98acfc5a0d2b9086e39d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\myapp\android 1.3.47-\android\WiFiCarDV_35923\WiFiCarDV\app\build\intermediates\pre-dexed\release\support-v4-19.1.0_bafc08b88af2fe8abfdbce7ffc7feeff4fc1170d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\myapp\android 1.3.47-\android\WiFiCarDV_35923\WiFiCarDV\app\libs\httpmime-4.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c7349b04e5d76895fdfc0f38bdc0699e5f6fef5a">
+        <dex dex="F:\myapp\android 1.3.47-\android\WiFiCarDV_35923\WiFiCarDV\app\build\intermediates\pre-dexed\release\httpmime-4.2.1_92362d72122f2d8edc02aeacdfc8306d900a5249.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\myapp\android 1.3.47-\android\WiFiCarDV_35923\WiFiCarDV\app\libs\httpclient-4.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="64849efdc10ea21eed3be7cc19ea7ec5af186776">
+        <dex dex="F:\myapp\android 1.3.47-\android\WiFiCarDV_35923\WiFiCarDV\app\build\intermediates\pre-dexed\release\httpclient-4.2.1_5225f514d4aa576c472ff2186d325ebfad8d4e49.jar" />
+    </item>
+
+</items>
